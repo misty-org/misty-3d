@@ -1,0 +1,11 @@
+# Automatically generated - DO NOT EDIT!
+
+[[permission]]
+identifier = "allow-studio-music-close"
+description = "Enables the studio_music_close command without any pre-configured scope."
+commands.allow = ["studio_music_close"]
+
+[[permission]]
+identifier = "deny-studio-music-close"
+description = "Denies the studio_music_close command without any pre-configured scope."
+commands.deny = ["studio_music_close"]

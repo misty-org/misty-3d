@@ -1,0 +1,9 @@
+{
+  // misty-3d is checked against a Misty checkout beside it (../misty): Misty's compiler options,
+  // its `@/…` paths and its node_modules are the host this module plugs into. See HOST.md.
+  "extends": "../misty/tsconfig.json",
+  "compilerOptions": {
+    "noEmit": true
+  },
+  "include": ["src", "../misty/src/vite-env.d.ts"]
+}

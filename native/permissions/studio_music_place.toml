@@ -1,0 +1,11 @@
+# Automatically generated - DO NOT EDIT!
+
+[[permission]]
+identifier = "allow-studio-music-place"
+description = "Enables the studio_music_place command without any pre-configured scope."
+commands.allow = ["studio_music_place"]
+
+[[permission]]
+identifier = "deny-studio-music-place"
+description = "Denies the studio_music_place command without any pre-configured scope."
+commands.deny = ["studio_music_place"]

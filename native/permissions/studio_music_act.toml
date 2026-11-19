@@ -1,0 +1,11 @@
+# Automatically generated - DO NOT EDIT!
+
+[[permission]]
+identifier = "allow-studio-music-act"
+description = "Enables the studio_music_act command without any pre-configured scope."
+commands.allow = ["studio_music_act"]
+
+[[permission]]
+identifier = "deny-studio-music-act"
+description = "Denies the studio_music_act command without any pre-configured scope."
+commands.deny = ["studio_music_act"]

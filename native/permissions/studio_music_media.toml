@@ -1,0 +1,11 @@
+# Automatically generated - DO NOT EDIT!
+
+[[permission]]
+identifier = "allow-studio-music-media"
+description = "Enables the studio_music_media command without any pre-configured scope."
+commands.allow = ["studio_music_media"]
+
+[[permission]]
+identifier = "deny-studio-music-media"
+description = "Denies the studio_music_media command without any pre-configured scope."
+commands.deny = ["studio_music_media"]
